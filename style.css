@@ -1,0 +1,11 @@
+table {
+    border: 1px solid #0000B8;
+    border-style:ridge;
+
+}
+
+th {
+    background-color: green;
+    color: white;
+}
+  
